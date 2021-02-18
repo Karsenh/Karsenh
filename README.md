@@ -23,3 +23,8 @@
 - 🐍 Python 
 - ⚛️ REACT 
 - 🦅 Swift (iOS) 
+
+----
+
+![Karsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karsenh&show_icons=true&theme=dracula)
+
