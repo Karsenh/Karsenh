@@ -19,4 +19,7 @@
 - Data Science fundamentals in Python
 - Everything I can on Leetcode
 
-### 
+### ❤️ *Current Favorite Languages*:
+- 🐍 Python 
+- ⚛️ REACT 
+- 🦅 Swift (iOS) 
