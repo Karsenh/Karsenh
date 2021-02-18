@@ -1,15 +1,16 @@
 ## Hi there 👋 I'm *Karsen Hansen*
-#### Computer Science Senior at **Gonzaga University**.
+#### 🎓 Senior of 📀 Computer Science at *Gonzaga University*🎓
 
 <br>
 
 
-✨ Welcome to my profile ✨ 
+✨ A little about me: ✨ 
 --
 
 
 
-### 🔭 *I'm currently working on*: 
+### 🔭 *I'm currently working on*:
+- Major in Computer Science / Minor in General Business @ GU (2021)🎓
 - Co-Op BOEING Project
 - MERN User Auth & Account Template
 
