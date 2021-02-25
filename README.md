@@ -20,7 +20,7 @@
 - Everything I can on Leetcode
 
 
-### ❤️ *My current favorite languages & Frameworks*:
+### ❤️ *My current favorite languages & frameworks*:
 - 🐍 Python 
 - ⚛️ JavaScript (REACT)
 - 🦅 Swift (iOS) 
