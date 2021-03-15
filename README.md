@@ -1,5 +1,5 @@
 ## Hi there 👋🏼 I'm *Karsen Hansen*
-#### 🎓 Senior of 👨🏼‍💻 Computer Science at *Gonzaga University* 🎓
+#### 👨🏼‍💻 Computer Science Senior at *Gonzaga University* 🎓
 
 <br>
 
