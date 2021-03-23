@@ -11,13 +11,12 @@
 ### 🔭 *I'm currently working on*:
 - Major in Computer Science / Minor in General Business @ GU (2021)🎓
 - Co-Op BOEING Project
-- MERN User Auth & Account Template
+- Full-Stack (MERN) User Auth & Account Template
 
 
 ### 🌱 *I'm currently learning*: 
-- MERN Stack Web Development
+- Full-Stack Web Development
 - Data Science fundamentals in Python
-- Everything I can on Leetcode
 
 
 ### ❤️ *My current favorite languages & frameworks*:
