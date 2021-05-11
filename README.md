@@ -1,5 +1,5 @@
 ## Hi there 👋🏼 I'm *Karsen Hansen*
-#### 👨🏼‍💻 Computer Science Senior at *Gonzaga University* 🎓
+#### 👨🏼‍💻 Computer Science Graduate from *Gonzaga University* 🎓
 
 <br>
 
@@ -9,20 +9,26 @@
 
 
 ### 🔭 *I'm currently working on*:
-- Major in Computer Science / Minor in General Business @ GU (2021)🎓
-- Co-Op BOEING Project
-- Full-Stack (MERN) User Auth & Account Template
+- Leveling up my web-development skills
+- Getting a job with a great company
 
 
 ### 🌱 *I'm currently learning*: 
-- Full-Stack Web Development
-- Data Science fundamentals in Python
+- React.js
+- GraphQL
+- Redux / Saga
+- Jest
+- Website Performance Optimization
 
 
 ### ❤️ *My current favorite languages & frameworks*:
 - 🐍 Python 
-- ⚛️ JavaScript (REACT)
-- 🦅 Swift (iOS) 
+- ⚛️ JavaScript
+- 🦅 Swift (iOS)
+
+### 🏆 *My recent accomplishments*:
+- Graduated from Gonzaga with a Major in Computer Science & Minor in General Business (Econ focus)
+- Completed a co-operative development with BOEING which is currently in the patent proces
 
 ----
 
