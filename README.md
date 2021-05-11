@@ -1,5 +1,6 @@
 ## Hi there 👋🏼 I'm *Karsen Hansen*
-#### 👨🏼‍💻 Computer Science Graduate from *Gonzaga University* 🎓
+#### 👨🏼‍🎓 Computer Science Graduate @ *Gonzaga University*
+#### 👨🏼‍💻 Life-long student of programming and development 
 
 <br>
 
