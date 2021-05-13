@@ -11,7 +11,6 @@
 
 ### 🔭 *I'm currently working on*:
 - Leveling up my web-development skills
-- Getting a job with a great company
 
 
 ### 🌱 *I'm currently learning*: 
