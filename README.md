@@ -28,7 +28,7 @@
 
 ### 🏆 *My recent accomplishments*:
 - Graduated from Gonzaga with a Major in Computer Science & Minor in General Business (Econ focus)
-- Completed a co-operative development with BOEING which is currently in the patent proces
+- Completed a co-operative development with BOEING which is currently in the patent process
 
 ----
 
