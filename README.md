@@ -23,8 +23,7 @@
 
 ### ❤️ *My current favorite languages & frameworks*:
 - 🐍 Python 
-- ⚛️ JavaScript
-- 🦅 Swift (iOS)
+- ⚛️ JavaScript / JSX
 
 ### 🏆 *My recent accomplishments*:
 - Graduated from Gonzaga with a Major in Computer Science & Minor in General Business (Econ focus)
