@@ -10,15 +10,16 @@
 
 
 ### 🔭 *I'm currently working on*:
-- Leveling up my web-development skills
+- Becoming a professional unit-tester
 
 
 ### 🌱 *I'm currently learning*: 
-- React.js
-- GraphQL
-- Redux / Saga
-- Jest
-- Website Performance Optimization
+- PowerShell Core
+- SOAP (Simple Object Access Protocol)
+- Azure Pipeline
+- jMeter
+- MS SQL Servers
+- MS .NET Framework / Core
 
 
 ### ❤️ *My current favorite languages & frameworks*:
