@@ -10,7 +10,7 @@
 
 
 ### 🔭 *I'm currently working on*:
-- Becoming a professional unit-tester
+- MS Azure Pipeline Development for PowerShell / .NET Scripts
 
 
 ### 🌱 *I'm currently learning*: 
