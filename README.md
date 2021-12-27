@@ -10,21 +10,19 @@
 
 
 ### 🔭 *I'm currently working on*:
-- MS Azure Pipeline Development for PowerShell / .NET Scripts
+- Building best-practice user authentication (MERN)
+- Working in React Native
 
 
 ### 🌱 *I'm currently learning*: 
-- PowerShell Core
-- SOAP (Simple Object Access Protocol)
-- Azure Pipeline
-- jMeter
-- MS SQL Servers
-- MS .NET Framework / Core
+- React Native
+- JWTs
 
 
 ### ❤️ *My current favorite languages & frameworks*:
-- 🐍 Python 
 - ⚛️ JavaScript / JSX
+- 🐍 Python 
+
 
 ### 🏆 *My recent accomplishments*:
 - Graduated from Gonzaga with a Major in Computer Science & Minor in General Business (Econ focus)
