@@ -11,12 +11,14 @@
 
 ### 🔭 *I'm currently working on*:
 - Building best-practice user authentication (MERN)
-- Working in React Native
+- Creating React Native apps
+- Creating best-practice, full-stack templatized business sites
 
 
 ### 🌱 *I'm currently learning*: 
+- Next.js
+- TailwindCSS
 - React Native
-- JWTs
 
 
 ### ❤️ *My current favorite languages & frameworks*:
