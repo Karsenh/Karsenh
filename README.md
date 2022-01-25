@@ -10,7 +10,7 @@
 
 
 ### 🔭 *I'm currently working on*:
-- Building best-practice user authentication (MERN)
+- Learning Smart-Contracts (Solidity) / ETH network & web app integration
 - Creating React Native apps
 - Creating best-practice, full-stack templatized business sites
 
